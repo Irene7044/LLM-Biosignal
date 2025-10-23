@@ -13,7 +13,7 @@ with open("llm3_prompt.txt", encoding="utf-8") as f:
     GUIDELINES = f.read()
 
 
-# Running: python llm3_oracle_model.py --inputs oracle_input_ES.json --llm-out LLM2_output_GPT3.5turbo.json --out oracle_results_B2.json --backend openai --model gpt-5
+# How to run: python llm3_oracle_model.py --inputs oracle_input.json --llm-out LLM2_output.json --out oracle_results.json --backend openai --model gpt-5
 
 
 # ------------------------- Setup -------------------------
@@ -309,3 +309,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

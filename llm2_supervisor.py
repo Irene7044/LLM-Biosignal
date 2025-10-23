@@ -8,8 +8,8 @@ Inputs:
   --out          : LLM2 output JSON
   --model        : OpenAI GPT model (gpt-4o-mini, gpt-4o, gpt-5, etc.)
 
-Running:
-python llm2_supervisor.py --inputs extreme_scenario_input.json --llm1-out LLM1_output_GPT4-omini.json --out LLM2_output_GPT3.5turbo.json --model gpt-3.5-turbo
+How to run:
+python llm2_supervisor.py --inputs einput.json --llm1-out LLM1_output.json --out LLM2_output.json --model gpt-3.5-turbo
 """
 
 import os
@@ -303,3 +303,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

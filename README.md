@@ -34,6 +34,9 @@ The commands for running each pipeline are written as comments at the top of eac
 
 
 **Model Pair Combination Guide:**
+
+Oracle Model is always using GPT 5.
+
   - Combination A1: GPT 4.1 mini (LLM1) | GPT 5 mini (LLM2)
 
   - Combination A2: GPT 5 mini (LLM1) | GPT 4.1 mini (LLM2)

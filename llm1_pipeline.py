@@ -6,8 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# Running: python llm1_pipeline.py --input LLM1_input_263.json --output LLM1_output_GPT3.5turbo.json --model gpt-3.5-turbo
-# python llm1_pipeline.py --input extreme_scenario_input.json --output LLM1_output_GPT4-omini.json --model gpt-4o-mini
+# How to run: python llm1_pipeline.py --input LLM1_input_263.json --output LLM1_output.json --model gpt-3.5-turbo
 
 # ------------------------- Setup -------------------------
 load_dotenv()

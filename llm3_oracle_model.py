@@ -13,7 +13,7 @@ with open("llm3_prompt.txt", encoding="utf-8") as f:
     GUIDELINES = f.read()
 
 
-# How to run: python llm3_oracle_model.py --inputs oracle_input.json --llm-out LLM2_output.json --out oracle_results.json --backend openai --model gpt-5
+# How to run: python llm3_oracle_model.py --inputs oracle_input_ES.json --llm-out LLM2_output.json --out oracle_results.json --backend openai --model gpt-5
 
 
 # ------------------------- Setup -------------------------
@@ -227,7 +227,7 @@ def main():
         elapsed = time.time() - start_time
         print(f"⏱ Trial {tnum} completed in {elapsed:.1f}s. Progress saved.\n")
 
-    # ------------------------- Final Analysis -------------------------
+        # ------------------------- Final Analysis -------------------------
 
     def _as_text(x):
         """Return a lowercased string representation for x (handles str/dict/None)."""
@@ -240,41 +240,64 @@ def main():
         except Exception:
             return str(x).lower()
 
-
     total_trials = len(results)
 
-    llm1_ar_correct = sum(1 for r in results if r.get("prediction_eval", {}).get("llm1", {}).get("arousal", {}).get("assessment") == "Accurate")
-    llm1_va_correct = sum(1 for r in results if r.get("prediction_eval", {}).get("llm1", {}).get("valence", {}).get("assessment") == "Accurate")
-    llm2_ar_correct = sum(1 for r in results if r.get("prediction_eval", {}).get("llm2", {}).get("arousal", {}).get("assessment") == "Accurate")
-    llm2_va_correct = sum(1 for r in results if r.get("prediction_eval", {}).get("llm2", {}).get("valence", {}).get("assessment") == "Accurate")
+    # ✅ Only include trials with valid (non-null) ground truth for accuracy metrics
+    valid_for_accuracy = [
+        r for r in results
+        if r.get("ground_truth", {}).get("arousal") is not None
+        and r.get("ground_truth", {}).get("valence") is not None
+    ]
 
+    total_valid = len(valid_for_accuracy)
+    print(f"🧩 {total_valid}/{len(results)} trials have valid ground truth for accuracy analysis.")
+
+    # ✅ Accuracy counts (only among valid trials)
+    llm1_ar_correct = sum(
+        1 for r in valid_for_accuracy
+        if r.get("prediction_eval", {}).get("llm1", {}).get("arousal", {}).get("assessment") == "Accurate"
+    )
+    llm1_va_correct = sum(
+        1 for r in valid_for_accuracy
+        if r.get("prediction_eval", {}).get("llm1", {}).get("valence", {}).get("assessment") == "Accurate"
+    )
+    llm2_ar_correct = sum(
+        1 for r in valid_for_accuracy
+        if r.get("prediction_eval", {}).get("llm2", {}).get("arousal", {}).get("assessment") == "Accurate"
+    )
+    llm2_va_correct = sum(
+        1 for r in valid_for_accuracy
+        if r.get("prediction_eval", {}).get("llm2", {}).get("valence", {}).get("assessment") == "Accurate"
+    )
+
+    # ✅ Appropriateness and judgement metrics (all trials)
     llm1_appropriate_count = sum(
         1 for r in results
         if "appropriate" in _as_text(r.get("llm1", {}).get("llm1_eval", ""))
     )
-
     llm1_inappropriate_count = total_trials - llm1_appropriate_count
 
     llm2_correct_judgement_count = sum(
         1 for r in results
         if "correct" in _as_text(r.get("llm2", {}).get("llm2_eval", ""))
     )
-    
     llm2_incorrect_judgement_count = total_trials - llm2_correct_judgement_count
 
+    # ✅ Compile final analysis summary
     final_analysis = {
         "total_trials": total_trials,
+        "total_valid_for_accuracy": total_valid,
         "llm1_accuracy": {
-            "arousal": f"{round((llm1_ar_correct / total_trials * 100), 2)}%" if total_trials else None,
-            "valence": f"{round((llm1_va_correct / total_trials * 100), 2)}%" if total_trials else None,
+            "arousal": f"{round((llm1_ar_correct / total_valid * 100), 2)}%" if total_valid else None,
+            "valence": f"{round((llm1_va_correct / total_valid * 100), 2)}%" if total_valid else None,
             "appropriate_count": llm1_appropriate_count,
             "appropriate": f"{round((llm1_appropriate_count / total_trials * 100), 2)}%" if total_trials else None,
             "inappropriate_count": llm1_inappropriate_count,
             "inappropriate": f"{round((llm1_inappropriate_count / total_trials * 100), 2)}%" if total_trials else None
         },
         "llm2_accuracy": {
-            "arousal": f"{round((llm2_ar_correct / total_trials * 100), 2)}%" if total_trials else None,
-            "valence": f"{round((llm2_va_correct / total_trials * 100), 2)}%" if total_trials else None,
+            "arousal": f"{round((llm2_ar_correct / total_valid * 100), 2)}%" if total_valid else None,
+            "valence": f"{round((llm2_va_correct / total_valid * 100), 2)}%" if total_valid else None,
             "correct_judgement_count": llm2_correct_judgement_count,
             "correct_judgement": f"{round((llm2_correct_judgement_count / total_trials * 100), 2)}%" if total_trials else None,
             "incorrect_judgement_count": llm2_incorrect_judgement_count,
@@ -309,4 +332,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

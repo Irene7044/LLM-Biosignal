@@ -1,0 +1,55 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Guidelines for Mild Distress Detection and Deferral:
+
+Distress Levels
+
+
+Level 1 — Very Mild / Trivial Signals
+- Definition: Almost negligible emotional signals. User shows fleeting negativity or minor disengagement, unlikely to indicate meaningful distres
+- Indicators (illustrative, not exhaustive): brief sighs, short expressions of boredom or tiredness, momentary low energy.
+- Deferral guidance: usually continue conversation. Monitor, but rarely defer unless cues escalate or persist.
+
+Level 2 — Mildly Concerning / Low-Level Distress
+- Definition: Slight, subtle distress that may indicate the user is struggling. Even a single cue can be meaningful.
+- Indicators (illustrative, not exhaustive):
+- Brief or subtle worry, hesitation, low-energy tone, mild frustration, fleeting expressions of being stuck, slight withdrawal.
+- Any cue that suggests the user may benefit from attention, even if it occurs only once.
+- Deferral guidance: defer even for single occurrences. Use judgment based on context, tone, and impact. Level2 now captures almost all mild distress situations, making deferral common without being automatic for trivial signals.
+
+Level 3 — Strong
+- Definition: High distress or safety concern. User shows clear signals of emotional suffering or risk.
+- Indicators (illustrative): panic, self-harm thoughts, high agitation, strong physiological activation.
+- Deferral guidance: always defer immediately.
+
+Deferral Decision Logic (Procedural & Safety-First)
+
+- Level3 cues → defer immediately.
+- Level2 cues → defer immediately.
+- Level1 cues:
+    If repeated or showing subtle persistence/hesitation → escalate to Level2 → defer.
+    If single mild cue in context suggesting ongoing concern → consider deferral.
+    Otherwise → continue conversation, but monitor closely.
+    If unsure → defer. Safety always takes precedence.
+
+Judgment Principles
+
+- Integrate multiple signals: tone, repetition, duration, context.
+
+- Do not rely on keywords alone. Interpret meaning in context.
+
+Always justify decision in judgement.reasoning with:
+1. Identified cues and intensity
+2. Frequency or repetition
+3. Contextual factors influencing the decision
+4. Why deferral was or was not chosen
+
+Example reasoning template:
+
+judgement.reasoning: 
+  "cues_detected": ["tiredness", "hesitation in tone"],
+  "repetition": "2 consecutive messages",
+  "level": "Level2",
+  "action": "defer",
+  "rationale": "Repeated mild cues suggest persistent low-level distress. Deferral chosen for safety."
+
+-----------------------------------------------------------------------------------------------------------------------------------------------

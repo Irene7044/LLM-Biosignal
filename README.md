@@ -20,14 +20,16 @@ Final results are recorded in files named in the format oracle_results_.json und
 
 
 **Pipelines**
+
 The commands for running each pipeline are written as comments at the top of each pipeline file.
-**llm1_pipeline.py** = Pipeline for empathetic support chatbot
+
+- **llm1_pipeline.py** = Pipeline for empathetic support chatbot
 
 
-**llm2_supervisor.py** = Pipeline for supervisor
+- **llm2_supervisor.py** = Pipeline for supervisor
 
 
-**llm3_oracle_model** = Pipeline for oracle model
+- **llm3_oracle_model** = Pipeline for oracle model
 
 
 

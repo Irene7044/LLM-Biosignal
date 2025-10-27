@@ -3,6 +3,8 @@ A research on how various LLM models respond to those seeking mental health supp
 
 **Note:**
 Final results are recorded in files named in the format oracle_results_.json under every different model combination folder. The final summaries can be found at the bottom of the files. 
+Due to the large file size, the AFFEC dataset can be found within the paper: https://arxiv.org/html/2504.18969v1
+The stimulus (Scenario and facial expression images) can be accessed via the OneDrive link: https://1drv.ms/f/c/ce861069657a8bbc/El5tn2PDflRHmgoFXBAbeh8BpCDqxuqgKb0LWN7bFI6Amg?e=9CiMXl
 
 **Files Descriptions**
 

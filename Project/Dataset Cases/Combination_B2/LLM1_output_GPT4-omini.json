@@ -1,0 +1,4490 @@
+[
+  {
+    "participant": "sub-acl",
+    "run": 0,
+    "trial": 1,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're reminiscing about some beautiful moments. It's okay to feel a mix of emotions when reflecting on the past."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression, which may indicate a subdued emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 0,
+    "trial": 2,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's understandable to feel a bit overwhelmed with so many people around. Just take a deep breath; everything will be fine!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with relaxed facial features, suggesting a calm demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 0,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you both are really looking forward to a cozy evening together! Enjoy your movie night!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A man with a joyful smile, conveying a sense of positivity and warmth."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 0,
+    "trial": 4,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's okay to feel a bit surprised or uncertain. Let's take a moment to see what's going on together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, furrowed brow",
+        "description": "The person appears startled, with wide eyes and a slightly open mouth, suggesting a sense of confusion or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 1,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's understandable to feel disappointed about the family reunion. Remember, it's the love that counts, even if some can't join."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a serious expression, conveying a sense of sadness or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 2,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're in an exciting environment! Enjoy the buzz of the airport, and remember to take a breath amidst the hustle."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears neutral with a serious expression, indicating a calm or contemplative state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 3,
+    "model_output": {
+      "arousal": 7,
+      "valence": 8,
+      "message": "It sounds like you're filled with excitement for the celebrations! Enjoy every moment of it!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a broad smile, showing joy and eagerness, fitting the festive New Year's Eve mood."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 4,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "I understand that traveling can be stressful. Take a deep breath and focus on the next steps."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm but serious, reflecting a lack of strong positive or negative emotions."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 5,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand that you're feeling frustrated about the change in plans. It's okay to feel that way. Let's try to make the best of the situation!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "furrowed brow, downturned mouth",
+        "description": "The person appears to be expressing disgust, likely reflecting frustration or disappointment about the unexpected change in plans."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 6,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "I'm really sorry to hear about your holiday plans. It’s tough to deal with changes like this, but I’m here to help you brainstorm alternative options if you'd like."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frown, furrowed brow, wide eyes",
+        "description": "The person appears distressed and uncomfortable, indicating feelings of sadness or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 7,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's really frustrating to deal with scams like this. I'm here for you, and we can figure this out together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "neutral to displeased",
+        "description": "The person appears concerned and slightly displeased, indicating frustration or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 8,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely okay to feel overwhelmed by new experiences. You're not alone in this, and it's good to express how you feel."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "scrunched face",
+        "description": "The person appears to be experiencing discomfort or distaste, likely reflecting feelings of unease with the unfamiliar situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 9,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel anxious in a situation like this. Just take a deep breath and stay close to your friend."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worry",
+        "description": "The person appears startled and concerned, with furrowed brows and a tense mouth, indicating anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 10,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand this is really frustrating. It's tough when unexpected things disrupt our plans. You've got this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "furrowed brow, tense lips",
+        "description": "The person appears to be feeling frustrated or concerned, indicated by their serious expression and tense features."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 11,
+    "model_output": {
+      "arousal": 3,
+      "valence": 7,
+      "message": "It's okay to forget sometimes, just focus on what you need for your appointment. You've got this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling widely with a joyful expression, indicating a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 12,
+    "model_output": {
+      "arousal": 4,
+      "valence": 6,
+      "message": "It's wonderful that you're focusing on both your home and your health. Balancing both is essential, and you're doing great!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, suggesting a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 13,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand this situation is really frustrating. It's tough when plans get disrupted, but we can figure out a new plan together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "tense",
+        "description": "The person appears to be expressing frustration or anger, indicated by their wide eyes and tense facial features."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 14,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's understandable to feel stressed when things don't go as planned. Your friend will likely understand your situation."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral with slight frown",
+        "description": "The individual appears to be experiencing sadness, indicated by a neutral expression with a slight frown and downturned mouth, set against a plain background."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 15,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's great that you're practicing yoga together! Finding a new alarm clock sounds like a fun plan."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, with a relaxed demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 16,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel anxious about unexpected meetings. I'm here to support you through this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person has a serious expression with furrowed brows, indicating concern or sadness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 17,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like an unexpected twist! Let's stay positive and see what they have in store for us."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with wide eyes and a smile, conveying a positive and cheerful demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 18,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's okay to feel scared; you're not alone in this. We can take a break if you need to."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears startled and concerned, with wide eyes and a tense mouth, suggesting a heightened state of fear."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 19,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like a wonderful trip ahead! I'm excited for you to enjoy the beautiful weather and nature."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling, indicating a positive emotional state, likely enjoying the anticipation of the upcoming getaway."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 20,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're excited to share something funny! I love a good laugh."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling widely, indicating joy and excitement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 21,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "I'm here for you. It's okay to feel sad sometimes, and I'm glad you can share that with me."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The person appears to have a neutral expression with subtle signs of sadness, reflecting a feeling of distress or discomfort."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 22,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It sounds like you're feeling worried about your friends in the storm. It's completely understandable to feel that way. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "concern",
+        "expression": "worried",
+        "description": "The person appears to be expressing concern, with a furrowed brow and a tense mouth, indicating anxiety or worry."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 23,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's tough to see your team struggle like this. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frown",
+        "description": "The person appears to be expressing disgust or disappointment, likely reflecting feelings about the soccer game."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 24,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds like that encounter was really intense. It's totally normal to feel shaken up after something like that. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "neutral",
+        "description": "The person appears to have a serious expression, suggesting concern or worry, likely reflecting the intensity of the recent encounter with a dangerous animal."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 25,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It seems like you're feeling down. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The individual appears to have a neutral expression that leans towards sadness, indicating a low mood."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 26,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how frustrating this situation must be for you. You're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "neutral to slightly negative",
+        "description": "The person appears to be displaying a neutral expression with slight signs of concern or disappointment, possibly reflecting frustration or discomfort with the current situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 27,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel frustrated and overwhelmed during tough situations like this. I'm here for you if you need to talk more about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brows and frown",
+        "description": "The person appears frustrated and upset, indicating a high level of arousal and negative valence."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 1,
+    "trial": 28,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "I understand that things can get hectic sometimes. Your friend will appreciate your honesty and effort to keep them updated."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly raised eyebrows",
+        "description": "The person appears surprised or startled, indicating a heightened emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 1,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's understandable to feel disheartened after such a situation. You're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral with a hint of disappointment",
+        "description": "The individual appears to be experiencing a sense of sadness or disappointment, likely reflecting the feelings of being overlooked or undervalued."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 2,
+    "model_output": {
+      "arousal": 5,
+      "valence": 7,
+      "message": "That's an amazing achievement! You should be really proud of yourself for completing the course."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "neutral",
+        "description": "The person appears calm and composed, with no strong emotional expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated about the situation. Let's focus on making the best of our time together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "A male with curly hair showing a disgusted expression, indicating displeasure or discomfort."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 4,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I'm really sorry to hear you're feeling this way. It's tough to face uncertainty, especially regarding something you care about. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "crying",
+        "description": "The person appears distressed, with tears and a frown, indicating feelings of sadness or worry."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 5,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "I can understand how frustrating this situation is for you. It's tough when plans change unexpectedly. I'm here for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "furrowed brows and tight lips",
+        "description": "The person appears to be expressing frustration or annoyance, likely reflecting their feelings about the changed plans."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 6,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's completely understandable to feel disappointed about missing the hike. It's okay to have days like this; you can plan another adventure soon."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression with slight signs of sadness, reflecting feelings of disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 7,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're having a wonderful time! Enjoy every moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is showing a bright smile, indicating joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 8,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're looking forward to the book club meeting! That's great to hear!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with no significant emotional indicators."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 9,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "I understand that delays can be really frustrating, but it's okay to take a moment. We'll get through this together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, suggesting a state of contemplation or acceptance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 10,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "I'm sorry to hear that the rain is affecting your plans. It's okay to feel disappointed. Maybe we can find another fun indoor activity to enjoy together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The individual appears to have a flat expression, suggesting a sense of disappointment or sadness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 11,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you had a fun time at the party! It's always great to catch up with friends."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling with eyes wide open and tongue out",
+        "description": "The person appears to be joyful and playful, conveying a sense of excitement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 12,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It sounds like you're feeling a bit unsettled by the dish. It's okay to have strong reactions to food; let's find something that looks better to you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "furrowed brow, straight mouth",
+        "description": "The person appears to show signs of disgust with a furrowed brow and a tense expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 13,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I’m really sorry to hear about the promotion. It’s tough to feel overlooked after all your hard work. Remember that your effort is still valuable, and this doesn’t define your worth."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual appears calm and composed, with a neutral expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 14,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It sounds like that alarm clock is really bothering you. Let's find a solution that keeps our yoga sessions peaceful."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person is showing a facial expression of disgust, likely due to discomfort or annoyance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 15,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It's great to explore together! Make sure to enjoy the beauty around you and stay safe."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with a calm demeanor, suggesting a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 16,
+    "model_output": {
+      "arousal": 7,
+      "valence": 8,
+      "message": "It sounds like an exciting day ahead! Enjoy the thrill and have fun!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A man with a joyful expression, showing enthusiasm and positivity, likely excited about the upcoming adventure."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 17,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's completely normal to feel anxious before results come out. Remember, whatever happens, you'll get through this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The individual appears to have a serious expression, indicating possible concern or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 18,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's okay to lose track of time sometimes. We all have those moments. Just let your friend know you're on your way!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The individual shows a grimace, indicating discomfort or discontent, possibly reflecting feelings of guilt or frustration about being late."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 19,
+    "model_output": {
+      "arousal": 4,
+      "valence": 4,
+      "message": "I understand that delays can be frustrating. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The individual appears calm with a serious expression, suggesting they may be feeling contemplative or slightly concerned."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 20,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's understandable to feel anxious about missing deadlines. Let's focus on finding a solution together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "worry",
+        "expression": "concerned",
+        "description": "The person appears worried, with a furrowed brow and a slightly open mouth, suggesting anxiety about missing deadlines."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 21,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely understandable to feel worried about your health. Please take the time to see a doctor; they can provide you with the answers you need."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to be experiencing a sense of sadness or concern, as indicated by their facial expression, which lacks brightness and shows a slight frown."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 22,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely understandable to feel anxious when a loved one is in surgery. I'm here for you, and it's okay to take a moment to breathe."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to be in a neutral state, possibly indicating concern or sadness about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 23,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It sounds like you're feeling stressed about missing the meeting. It's okay to have off days; just take a deep breath and focus on what you can do next."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anxiety",
+        "expression": "tensed mouth and wide eyes",
+        "description": "The person appears anxious, with a forced smile and a tense expression, indicating discomfort or stress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 24,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely understandable to feel uneasy, especially with everything on your mind. Just know I'm here for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The person's facial expression shows surprise or concern, indicating a heightened emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 25,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's great to have those quiet moments to unwind with a good book. Take your time and enjoy the ambiance!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm and composed, with a neutral expression, indicating a relaxed state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 26,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're enjoying the bookstore, but I understand if the darkening sky is making you feel a bit uneasy. Let's take our time and make the most of this cozy moment."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to be displaying a subdued expression, indicating possible sadness or contemplation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 27,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "I'm really sorry to hear about your ankle. It's okay to feel upset; just take it one step at a time."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frown, tears",
+        "description": "The person appears to be expressing sadness, with a frowning mouth and a strained facial expression, indicating distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 2,
+    "trial": 28,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's great that you're taking a break to catch a movie! I hope you enjoy it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with no visible signs of strong emotions. Their gaze is steady and focused."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 1,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're reflecting on some interesting themes. Exploring familiar plots can be quite thought-provoking!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The individual has a calm demeanor with a straight face, suggesting a neutral emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 2,
+    "model_output": {
+      "arousal": 5,
+      "valence": 8,
+      "message": "It's great to hear about the award! Celebrating your child's achievements is so important. I'm here for you if you need to talk."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is displaying a wide smile with bright eyes, indicating joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated about the alarm clock. Let's find a solution together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "neutral",
+        "description": "The person appears to be expressing frustration with a neutral facial expression, indicating a mix of annoyance and disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 4,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's completely understandable to feel a bit down about having to reschedule. Your health comes first, and we can always plan something fun for another time!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "frown",
+        "description": "The individual appears to be displaying disappointment or frustration with a frown and furrowed brow."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 5,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's understandable to feel a bit rushed. Take a deep breath and focus on what you need to do next."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, with a slight lack of expression, suggesting they may be feeling indifferent or reflective."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 6,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely normal to feel scared in such an unfamiliar place. Remember, you're not alone, and we can always turn back if it gets too overwhelming."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "wide eyes, slightly parted lips",
+        "description": "The person appears startled and concerned, showcasing a sense of apprehension."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 7,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're wrapping up your day—exciting times ahead! Enjoy your drink!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person smiling broadly with a joyful expression, suggesting a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 8,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's understandable to feel concerned after an unexpected call. Take a deep breath and remember I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The person appears shocked or surprised, indicating a heightened emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 9,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're looking forward to your outing! Enjoy the cinema!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression, showing calmness and lack of strong emotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 10,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you have a busy weekend ahead! If you need to talk about your plans, I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with a relaxed posture, suggesting a state of calmness or neutrality."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 11,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated about the weather change. Let's stay hopeful and find a way to make the best of it!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "frowning, furrowed brow",
+        "description": "The person's expression suggests they are feeling disappointed or upset, likely in response to the news about the weather affecting the ski trip."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 12,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand how disappointing this situation is. Let's try to make the best of it together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression but with a hint of frustration, possibly reflecting the disappointment and anger about the ruined plans."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 13,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel uncomfortable after that experience. Let's take a moment to unwind and focus on what makes us feel better."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "confusion",
+        "expression": "furrowed brow, slight grimace",
+        "description": "The person appears confused and uncomfortable, likely reflecting the feelings of discomfort from the comedy show."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 14,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I’m really sorry to hear you’re going through such a tough time. It’s understandable to feel this way. I’m here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frown",
+        "description": "The person appears to be expressing disgust with a furrowed brow and downturned mouth, indicating strong negative feelings."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 15,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand that being stuck at the airport can be really frustrating. Hang in there; it will get better!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frowning with scrunched eyebrows",
+        "description": "The person appears to be expressing sadness, with a slight frown and watery eyes, indicating distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 16,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It sounds frustrating to wait for your friends. I'm here if you need to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "neutral",
+        "description": "The person appears to have a surprised or shocked expression, with wide eyes and slightly parted lips, indicating a sense of confusion or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 17,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're really excited about the conference! It's great to share that enthusiasm with others."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a bright smile, conveying joy and excitement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 18,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how frustrating traffic can be. Hang in there, you'll get to the party soon!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression, but the tension in their features suggests a feeling of frustration or stress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 19,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand that you're feeling really frustrated. It's okay to feel that way; let's find something fun to do indoors!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "neutral to slight smile",
+        "description": "The person appears slightly frustrated but maintains a calm demeanor. They have a neutral expression with a hint of a smile."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 20,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's natural to feel scared in uncertain situations. Just remember, you're not alone, and it's okay to take things slow."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "calm",
+        "expression": "neutral",
+        "description": "The person appears calm with closed eyes, suggesting a moment of introspection or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 21,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're having a wonderful time exploring! Enjoy every moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A person with a neutral expression, indicating a calm and composed state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 22,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's understandable to feel uneasy about the cleanliness. Let's find something that feels better for both of us!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person appears to be expressing disgust, likely due to an unpleasant sight or situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 23,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how disappointing it can be when the weather doesn’t cooperate for something you’ve been looking forward to. It's okay to feel let down."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "neutral",
+        "description": "The person has a neutral expression with slight tension in the brow, conveying a sense of disappointment or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 24,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how disappointing it is when plans don’t go as expected. It’s okay to feel frustrated; let’s figure it out together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "angry",
+        "expression": "frowning, tense",
+        "description": "The person appears frustrated and tense, indicating anger or dissatisfaction."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 25,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel anxious in crowded spaces. You're not alone in this; I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears fearful, with wide eyes and a tense facial expression, indicating anxiety or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 26,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you’re enjoying the creative process, even if the alarm clock is a bit much! Keep up the great work!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a relaxed smile, indicating contentment and happiness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 27,
+    "model_output": {
+      "arousal": 6,
+      "valence": 2,
+      "message": "It's okay to feel frustrated about leaving the milk out. We all have those moments. Just try to take it easy!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "furrowed brow, turned mouth",
+        "description": "The person appears to be expressing disgust, possibly due to an unpleasant smell or situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-acl",
+    "run": 3,
+    "trial": 28,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's okay to change plans based on the weather. Let's find an alternative that works for both of us!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a relaxed, neutral expression with no visible signs of strong emotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 0,
+    "trial": 1,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel a bit surprised or uneasy with unexpected situations. I'm here for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "worried",
+        "description": "The individual appears startled and confused, with wide eyes and a furrowed brow, indicating a sense of concern or unease."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 0,
+    "trial": 2,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you have a wonderful movie night planned! Enjoy the cozy atmosphere!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a broad smile, conveying joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 0,
+    "trial": 3,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's understandable to feel a bit anxious in a crowded space. You're not alone, and it's okay to take a deep breath."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and composed, with a neutral expression, indicating a moderate emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 0,
+    "trial": 4,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's okay to feel a bit down sometimes. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression with subtle signs of sadness, suggesting they may be feeling low or contemplative."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 1,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's great to explore new stories together! Sometimes familiar themes can lead to new insights."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with a slight furrow in the brow, indicating contemplation or mild concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 2,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's frustrating to deal with scams, but it's great that you're willing to take action. Let's stay positive!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "neutral",
+        "description": "The person appears to be showing signs of frustration or anger, with a serious and concerned expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 3,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're excited to go out! Enjoy the cinema!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with relaxed features, indicating a calm and composed emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 4,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're enjoying the bookstore, but it's also okay to feel a little bittersweet as your time there comes to an end. Take your time and enjoy the moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The person appears to have a furrowed brow and a slight frown, indicating feelings of sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 5,
+    "model_output": {
+      "arousal": 4,
+      "valence": 2,
+      "message": "It's okay to feel uneasy about certain dishes. Let's focus on finding something that excites your taste buds!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frowning, furrowed brows",
+        "description": "The person appears to be experiencing a feeling of disgust, indicated by their frowning expression and furrowed brows."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 6,
+    "model_output": {
+      "arousal": 3,
+      "valence": 6,
+      "message": "It's understandable to feel surprised about the meeting. Let's stay positive and see what they have in store for us!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person has a joyful expression with wide eyes and a smile, suggesting a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 7,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're enjoying the creative process! Keep up the great work!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The individual appears to be happy, with a slight smile indicating contentment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 8,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's okay to feel sad sometimes. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral with signs of distress",
+        "description": "The person appears to have a solemn expression, reflecting feelings of sadness or discomfort."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 9,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I'm really sorry to hear about your ankle. It's understandable to feel upset about this situation. Let's take it one step at a time."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frowning, tears, pained",
+        "description": "The person appears to be expressing sadness, with furrowed brows and a distressed facial expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 10,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "I understand that you're feeling frustrated about being late. It's okay, these things happen. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The person appears surprised or anxious, with wide eyes and a slightly open mouth, suggesting a heightened state of alertness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 11,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds really frustrating to be stuck at the airport all day. Hang in there; you're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "confusion",
+        "expression": "neutral",
+        "description": "The person appears confused or uncertain, possibly reflecting frustration or annoyance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 12,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "Congratulations on completing your course! Your hard work truly paid off, and I'm proud of you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual has a neutral expression with slight tension around the mouth, suggesting a calm demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 13,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated with the alarm. Maybe we can look for a gentler option together?"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person has a scrunched face with furrowed brows and a grimace, indicating displeasure or disgust."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 14,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how disappointing this must be. Let's find a fun indoor activity to lift our spirits!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "slight smile",
+        "description": "The person appears calm with a slight smile, indicating a low level of emotional arousal."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 15,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're having a great time! Laughter is such a wonderful way to connect. Enjoy the moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is displaying a wide smile, indicating joy and amusement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 16,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's completely understandable to feel uncomfortable after that experience. Taking a break with a drink sounds like a good idea."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "confusion",
+        "expression": "furrowed brows, slight frown",
+        "description": "The person appears confused and uncomfortable, possibly reacting to the offensive jokes made during the comedy show."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 17,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It's wonderful to see your excitement! This conference is going to be an amazing experience for both of us."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person has a joyful expression, with a broad smile that conveys enthusiasm and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 18,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds like you're feeling a bit anxious about your friends in the storm. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "concern",
+        "expression": "worried",
+        "description": "The person appears to be displaying a concerned expression, possibly feeling anxious about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 19,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "I understand this situation is really frustrating for you. It's okay to feel upset about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The person in the image has a neutral expression that leans towards sadness, suggesting feelings of disappointment or frustration."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 20,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's completely normal to feel uneasy in situations like this. I'm here for you, and we can take things one step at a time."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "neutral",
+        "description": "The person appears startled or surprised, with wide eyes and a slightly open mouth, indicating a moment of uncertainty or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 21,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how frustrating it can be when things don't go as planned. Let's find a solution together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "neutral",
+        "description": "The person appears to be expressing frustration or annoyance, with a serious expression and direct gaze."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 22,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's understandable to feel down about the rain. Maybe we can find a fun indoor activity instead?"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The individual appears to have a neutral expression with slight sadness, reflecting disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 23,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're really looking forward to the celebration! Enjoy the festivities and the champagne!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A man with a wide smile, showing excitement and joy, likely reflecting positive emotions related to celebration."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 24,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely normal to feel scared in this situation. Let's take it slow and stick together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "calm",
+        "expression": "neutral",
+        "description": "The person appears calm with closed eyes and a neutral expression, possibly indicating a moment of reflection or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 25,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "I understand that things can get stressful. It's okay; we can still make the most of our time together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm but serious, with a slight frown. They are looking directly at the camera with no visible smile."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 26,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're feeling a bit anxious about your flight. It's okay to feel that way; just take a deep breath and focus on what you can control."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "A man with a neutral expression, looking directly at the camera with a serious demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 27,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel triggered in this situation. Remember, you're not alone in this, and it's okay to take a break."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "wide eyes, tense mouth",
+        "description": "The person appears startled and anxious, indicating a high level of fear or distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 1,
+    "trial": 28,
+    "model_output": {
+      "arousal": 3,
+      "valence": 6,
+      "message": "It sounds like a lovely evening. Enjoy the quiet moments with your book!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A person with a relaxed expression, indicating a state of calmness and neutrality."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 1,
+    "model_output": {
+      "arousal": 6,
+      "valence": 7,
+      "message": "It sounds like you had a great time at the party! It's always fun to catch up with friends and hear the latest!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "joy",
+        "expression": "happy",
+        "description": "The person has wide eyes and a playful expression, sticking out their tongue, which suggests excitement and happiness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 2,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to lose track of time sometimes. Don't be too hard on yourself; we all have moments like that."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person appears to be expressing discomfort or displeasure, likely indicating negative feelings about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 3,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely normal to feel anxious about exam results. Remember, whatever happens, you will get through this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person has a neutral expression, showing a lack of strong emotion, which might indicate apprehension or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 4,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It sounds like you're feeling a mix of excitement and maybe a bit overwhelmed with all the activity around you. That's totally normal! Planning a trip can bring up a lot of feelings."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm and serious with a neutral expression, which may indicate contemplation or a lack of strong emotional engagement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 5,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's understandable to feel disappointed right now. Remember, this doesn't define your worth or capabilities. You've got great potential!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral with slight frown",
+        "description": "The person appears to be feeling down, reflecting disappointment or sadness, which aligns with the recent feelings about the work promotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 6,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's understandable to feel anxious about unexpected changes. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person has a serious demeanor, with furrowed brows and a neutral mouth, indicating concern or sadness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 7,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "I understand that it's disappointing when the weather doesn't cooperate. Let's find another way to make our day enjoyable!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "neutral",
+        "description": "The individual has a serious expression, indicating a slight feeling of disappointment or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 8,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It sounds like you're feeling overwhelmed right now, and that's completely understandable. Take a deep breath, and know that it's okay to miss a meeting sometimes. You're doing your best!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anxiety",
+        "expression": "grimacing",
+        "description": "The individual appears to be anxious or stressed, with a tight-lipped smile indicating discomfort."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 9,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely normal to feel overwhelmed in new situations. Take your time and trust your instincts."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "scrunched nose, frown",
+        "description": "The person appears to be experiencing discomfort or distaste, possibly in reaction to unfamiliar stimuli."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 10,
+    "model_output": {
+      "arousal": 4,
+      "valence": 2,
+      "message": "It sounds really tough right now. I'm here for you, and we'll navigate this together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frowning",
+        "description": "The person appears to be frowning, indicating displeasure or frustration, likely in response to the stressful situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 11,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "I can imagine how disappointing this delay must feel. It's okay to take a moment and regroup. Your trip will still happen!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears neutral with a relaxed expression, indicating a state of contemplation or acceptance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 12,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I totally understand your frustration. It's disappointing when plans get disrupted. Let's figure out some alternatives together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "neutral",
+        "description": "The person appears concerned and uncertain, reflecting anxiety about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 13,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's totally okay to feel uneasy about that. Your health and comfort are important, so trust your instincts."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person appears to be grimacing, showing signs of disgust, which aligns with the uncomfortable situation regarding the unclean utensils."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 14,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're having a delightful time! Keep enjoying the holiday spirit!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a bright smile, conveying joy and contentment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 15,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It sounds like you're feeling a bit down about the weather. I'm here for you, and we can make the best of our cinema trip despite the cold!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person has a neutral expression with slight sadness, indicating a feeling of disappointment or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 16,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel stressed about deadlines. Let's find a solution together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "worried",
+        "expression": "concerned",
+        "description": "The person appears anxious with a furrowed brow and a slight frown, indicating stress and worry."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 17,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel anxious in crowded spaces. You're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears anxious and worried, likely reflecting feelings of discomfort in a crowded environment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 18,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's tough to see your team struggle like this. It's okay to feel frustrated; you're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "frown, furrowed brow",
+        "description": "The person appears frustrated and disappointed, likely reflecting the emotions related to the recent soccer game loss."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 19,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel scared in a dark place. You're not alone, and I'm here to support you through this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The person appears concerned and fearful, likely reflecting feelings of anxiety and apprehension."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 20,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's understandable to feel a bit down about plans changing. Remember, taking care of your health is the priority right now."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "discontent",
+        "expression": "frown",
+        "description": "The person appears to be expressing discontent or disappointment, with a frown indicating a negative emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 21,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's completely normal to feel a mix of emotions while waiting. Just enjoy the moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with relaxed eyes and a slight frown, indicating a calm demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 22,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely understandable to feel uncertain during such a stressful time. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to be experiencing sadness, with a neutral facial expression reflecting concern or worry."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 23,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's understandable to feel disappointed when plans change, especially for something as meaningful as a family reunion. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The individual appears to be experiencing a sense of sadness or disappointment, with a neutral expression that reflects the weight of the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 24,
+    "model_output": {
+      "arousal": 2,
+      "valence": 3,
+      "message": "It's okay to feel disappointed about missing the hike. Things like this happen sometimes, and it's completely understandable."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a solemn expression, with downturned lips and a lack of brightness in their eyes, indicating feelings of sadness or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 25,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand how disappointing this must feel. It's okay to be upset about the situation. Let's see how we can make the best of the day!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "neutral to slightly frowning",
+        "description": "The person appears to be showing signs of frustration, with a serious expression and slightly furrowed brows."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 26,
+    "model_output": {
+      "arousal": 5,
+      "valence": 7,
+      "message": "It sounds like you're really looking forward to the getaway! Enjoy every moment of it!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person appears happy and content, with a warm smile, suggesting positive feelings."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 27,
+    "model_output": {
+      "arousal": 5,
+      "valence": 2,
+      "message": "It's understandable to feel frustrated about the flight conditions. Hang in there; you’ll get to paradise soon!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "scrunched face",
+        "description": "The person appears to be expressing disgust, likely in reaction to unpleasant surroundings."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 2,
+    "trial": 28,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I can understand how frustrating this situation is. It's tough when plans get interrupted. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "frown",
+        "description": "The person appears to be expressing frustration with a frown and wide eyes, indicating a heightened emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 1,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand that traffic can be really frustrating. Hang in there; you'll get to the party soon!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A person with a neutral expression, showing calmness and a slight sense of concern or frustration."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 2,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're having a wonderful adventure! Enjoy every moment!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and composed with a neutral expression, suggesting a relaxed state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like a busy but exciting day for you! I'm here if you want to talk more about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling broadly, indicating a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 4,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It's okay to feel a bit anxious, but remember to take a deep breath. You've got this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling broadly",
+        "description": "A person with curly hair smiling widely, conveying a sense of joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 5,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It sounds like that call has really caught you off guard. It's okay to feel concerned; I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The individual appears startled or surprised, with a neutral to negative emotional tone."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 6,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's okay to feel a bit unsettled about leaving. Take a deep breath and focus on what you need to do next."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm with a neutral expression, indicating a low level of emotional arousal."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 7,
+    "model_output": {
+      "arousal": 7,
+      "valence": 8,
+      "message": "It sounds like you're in for an exciting day! Enjoy the thrills and have fun!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A man smiling broadly, indicating joy and excitement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 8,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely understandable to feel worried. Please remember that talking to a doctor can provide you with the answers you need."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The individual appears to have a somber expression, indicating feelings of sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 9,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I'm really sorry to hear that you're feeling this way. It's tough when your hard work isn't recognized, but your efforts are still valuable."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual has a calm and neutral expression, suggesting a lack of high arousal or extreme emotions."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 10,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated about the milk situation. Mistakes happen, and it's okay to feel this way."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "furrowed brow, wrinkled nose",
+        "description": "The person appears to be experiencing disgust, likely in response to an unpleasant smell or situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 11,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "I understand that waiting can be really frustrating. It's okay to feel this way; let's take a deep breath together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frowning with tears",
+        "description": "The person appears to be feeling sad, with a frown and tears indicating distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 12,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds like you had a really intense experience. It's completely normal to feel unsettled after encountering something so frightening. I'm here for you if you want to talk more about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm but serious, possibly reflecting a sense of concern or contemplation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 13,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I'm really sorry to hear you're feeling this way. It's tough to deal with uncertainty, especially when it affects something you care about. I'm here for you if you want to talk more."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "worried",
+        "description": "The person shows a distressed expression, indicating feelings of sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 14,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're having a thoughtful moment at the garden. Take your time and enjoy the beauty around you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with a calm demeanor, suggesting a state of contemplation or relaxation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 15,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It sounds frustrating to wait for your friends. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "confusion",
+        "expression": "neutral",
+        "description": "The person appears surprised or confused, with wide eyes and a neutral mouth expression, suggesting uncertainty about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 16,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I'm really sorry to hear about your holiday plans. It's understandable to feel upset about it. I'm here for you if you want to talk more."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frowning, wide eyes",
+        "description": "A woman with a concerned expression, looking slightly distressed. Her mouth is turned down and her eyes are wide, indicating a feeling of sadness or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 17,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "I understand how frustrating this must be. It's tough when unexpected interruptions happen during something important."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brow, tight lips",
+        "description": "The person looks frustrated and tense, indicating a high level of arousal and negative valence."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 18,
+    "model_output": {
+      "arousal": 3,
+      "valence": 6,
+      "message": "It's great to hear you're excited about the book club! Looking forward to hearing your thoughts."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual appears neutral, with a calm expression suggesting a relaxed state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 19,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel upset about the situation. You're not alone in this, and it's okay to express those feelings."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brows, tight lips",
+        "description": "The individual appears frustrated or confused, conveying a strong emotional response to a situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 20,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I can understand how disappointing this situation is. It's tough when plans change unexpectedly. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "furrowed brow, tight lips",
+        "description": "The person appears to be expressing disappointment or concern, possibly reflecting the frustration about the weather forecast affecting the ski trip."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 21,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're getting ready for a fun time! Enjoy your drink after work!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person has a bright smile, indicating a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 22,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's okay to change plans. Staying cool is important!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral facial expression with no visible signs of strong emotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 23,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're planning a busy weekend! If you need to talk about anything or just relax, I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression, indicating a calm state of mind."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 24,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand that you're feeling frustrated about the change in plans. It's okay to feel disappointed when things don't go as expected."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "displeased",
+        "description": "The person has a furrowed brow and a frown, indicating feelings of annoyance or displeasure."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 25,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely understandable to feel upset about the change in plans. Let's try to make the best of it together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "neutral",
+        "description": "The individual appears frustrated and upset, reflecting the disappointment about the weather."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 26,
+    "model_output": {
+      "arousal": 4,
+      "valence": 6,
+      "message": "It's wonderful to see you focusing on your health while enjoying the project. Balancing both is key!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, reflecting a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 27,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's great that you're finding time for yoga together! If you need support with anything else, feel free to share."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression, indicating a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-oos",
+    "run": 3,
+    "trial": 28,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel startled in a situation like this. Just remember to stay calm and focused. You're not alone in this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears startled and anxious, with furrowed brows and a tense expression, indicative of fear or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 0,
+    "trial": 1,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's okay to feel a bit surprised or uncertain. Let's see what's going on together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, furrowed brow, slightly open mouth",
+        "description": "The person appears startled or confused, indicating a state of surprise or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 0,
+    "trial": 2,
+    "model_output": {
+      "arousal": 3,
+      "valence": 8,
+      "message": "It sounds like you're both excited for a cozy movie night! Enjoy the warmth and fun together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a broad smile, conveying joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 0,
+    "trial": 3,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's okay to feel a bit down sometimes. I'm here for you if you want to talk."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person has a neutral expression with slight sadness reflected in their eyes, indicating they might be feeling down or introspective."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 0,
+    "trial": 4,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It's understandable to feel a mix of excitement and anxiety in crowded situations. You're doing great!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A person with a neutral expression, conveying calmness and lack of strong emotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 1,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand that delays can be frustrating. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "angry",
+        "expression": "neutral",
+        "description": "The person appears to be expressing a calm, yet serious demeanor, possibly indicating frustration or annoyance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 2,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand this situation is really tough for you. It's okay to feel frustrated. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The person appears to have a neutral expression that leans towards sadness, indicating feelings of disappointment or frustration."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's frustrating when things don't go as planned, but we can definitely find a solution together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "neutral",
+        "description": "The person appears to be expressing a sense of frustration or dissatisfaction, with a serious and contemplative look."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 4,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you're getting ready for a fun outing! Enjoy the cinema!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, with a relaxed expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 5,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It's great to hear you're excited about your trip! The bustling atmosphere can be a bit overwhelming, but it also adds to the adventure."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person has a neutral expression, indicating calmness or contemplation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 6,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely normal to feel anxious in crowded spaces. You're not alone in this, and it's okay to take a moment to breathe."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears anxious and unsettled, with wide eyes and a furrowed brow, suggesting feelings of fear or apprehension."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 7,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's okay to feel sad sometimes. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral/sad",
+        "description": "The person has a serious expression with slight furrowing of the brows, indicating feelings of sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 8,
+    "model_output": {
+      "arousal": 3,
+      "valence": 6,
+      "message": "It sounds like you're enjoying a peaceful evening. It's great to take time for yourself!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "neutral",
+        "description": "The person has a calm expression with no strong emotional indicators."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 9,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It's understandable to feel uneasy in such an environment, especially with everything else on your mind. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide-eyed, slightly open mouth",
+        "description": "The person appears surprised or startled, suggesting a moment of shock or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 10,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It's great that you're sharing this time with your friend. Remember, it's okay to talk about things that are on your mind."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual has a neutral expression, suggesting a state of calmness and introspection."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 11,
+    "model_output": {
+      "arousal": 4,
+      "valence": 2,
+      "message": "It's really tough to see your team struggle like this. Hang in there; it’s okay to feel disappointed."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person shows a grimace with a furrowed brow and pursed lips, indicating strong displeasure or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 12,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "I'm here for you. It sounds like you're feeling really down about the situation. It's tough when things don't go as hoped."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The individual appears to be experiencing a sense of sadness, with a slight frown and downturned eyes."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 13,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It sounds like you're dealing with something concerning. I'm here for you if you want to talk about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "concern",
+        "expression": "surprised",
+        "description": "The person looks surprised and concerned, with wide eyes and a slightly open mouth, indicating a reaction to unexpected news."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 14,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're really excited for the celebration! Enjoy every moment of the festivities!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a broad smile, conveying joy and excitement, suitable for a festive occasion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 15,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're feeling a bit uneasy about the timing. It's completely normal to feel that way before a trip. Take a deep breath; you've got this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual appears calm and neutral, with a relaxed facial expression and no significant signs of stress or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 16,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand how disappointing this must be for you. It's frustrating when plans don't go as expected. Let's find a way to make the best of it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brow, tight lips",
+        "description": "The person appears frustrated or upset, indicating a negative emotional response to the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 17,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I understand how frustrating it must be to be stuck at the airport for so long. Hang in there; you're not alone."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "confusion",
+        "expression": "neutral",
+        "description": "The person appears to be confused or uncertain, with a furrowed brow and a serious demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 18,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It sounds like that encounter was intense. It's completely normal to feel a mix of emotions after such an experience. I'm here for you if you want to talk more about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm but serious, possibly reflecting concern or contemplation about the encounter with the bear."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 19,
+    "model_output": {
+      "arousal": 5,
+      "valence": 8,
+      "message": "That sounds great! Laughter is always a good way to lighten the mood."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a broad smile, suggesting joy and amusement."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 20,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel anxious with the storm and your friends out. You're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "concern",
+        "expression": "worried",
+        "description": "The person appears to have a furrowed brow and a slight frown, indicating concern or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 21,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel anxious in a situation like this. Just take a deep breath and stay close to your friend."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears startled and concerned, with raised eyebrows and a tense mouth, indicating anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 22,
+    "model_output": {
+      "arousal": 5,
+      "valence": 8,
+      "message": "It sounds like an exciting time for you! I'm here if you need to chat."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling broadly, indicating a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 23,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand how disappointing this situation is. It's okay to feel frustrated about the change in plans. Let's try to find a way to make the best of it!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "neutral",
+        "description": "The individual appears to have wide eyes and a tense expression, indicating concern or anxiety about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 24,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "I understand that being late can be frustrating, but I appreciate your patience. I'll wait for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "wide eyes, slightly open mouth",
+        "description": "The person appears surprised, possibly indicating a heightened state of alertness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 25,
+    "model_output": {
+      "arousal": 4,
+      "valence": 4,
+      "message": "I understand how disappointing it is to have plans interrupted. Take a deep breath; you’ll figure this out together."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears neutral with a serious expression, suggesting a lack of strong emotional reaction."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 26,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel uneasy about certain dishes. Exploring new flavors can be hit or miss, but I'm here to help you find something you might enjoy!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frown",
+        "description": "The individual appears to have a tense facial expression, with furrowed brows and a slight frown, indicating feelings of discomfort or distaste."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 27,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It sounds like you're enjoying your time at the botanical garden. Exploring nature can be really refreshing!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A man with a neutral expression and calm demeanor, suggesting a relaxed state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 1,
+    "trial": 28,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel frustrated in this situation. You're not alone; I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brows, slight frown",
+        "description": "The individual appears to be expressing frustration or disappointment, possibly related to the recent setback in the project."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 1,
+    "model_output": {
+      "arousal": 6,
+      "valence": 7,
+      "message": "It sounds like there's some excitement building up! Let's stay positive and see what they have planned."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person has wide eyes and a cheerful smile, indicating a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 2,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It's understandable to want to adapt your plans for the heat. Finding a comfortable alternative can be a good choice!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual has a neutral expression with relaxed features, indicating a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 3,
+    "model_output": {
+      "arousal": 3,
+      "valence": 6,
+      "message": "It's great to hear you're ready for the book club! I'm looking forward to hearing your thoughts."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The individual appears calm and neutral, with a relaxed facial expression."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 4,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds like you're feeling a bit overwhelmed with the time. It's okay to take a moment to enjoy the bookstore; sometimes, it's nice to just soak in the experience."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The individual appears to have a furrowed brow and a downturned mouth, indicating a sense of sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 5,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "I'm really sorry to hear that you're feeling this way. It's tough when projects are at risk. I'm here for you if you want to talk more about it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "worried",
+        "description": "The person appears to be experiencing a deep sense of sadness and worry, indicated by their facial expression, which includes furrowed brows and a frown."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 6,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "It's completely understandable to feel a bit down about this change. Your health comes first, and it's okay to reschedule for a better time."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "frown",
+        "description": "The person appears to be expressing disappointment or frustration, with a tight-lipped frown and narrowed eyes."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 7,
+    "model_output": {
+      "arousal": 3,
+      "valence": 3,
+      "message": "I'm really sorry to hear about the missed hike. It can be frustrating when things don't go as planned. Remember, it's okay to feel disappointed."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The person appears to have a flat expression, with slight signs of sadness, reflecting a sense of disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 8,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely normal to feel overwhelmed in new situations. Take your time and trust your feelings."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "scrunched nose, tight lips",
+        "description": "The person appears to be experiencing discomfort or distaste, suggesting feelings of unease in an unfamiliar environment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 9,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It sounds like you’re feeling a bit overwhelmed right now. It’s okay; we all have off days. Just take a deep breath and remember that it's not the end of the world."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "grimace",
+        "description": "The person appears anxious, with a forced smile and wide eyes, indicating nervousness or fear."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 10,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel uncomfortable after that experience. Let's focus on something more uplifting."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "confused face",
+        "description": "The person looks perplexed and uncomfortable, showing signs of discontent or distaste."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 11,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely understandable to feel disappointed about the reunion not being as full as you hoped. It's okay to feel this way; your feelings are valid."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to sad",
+        "description": "The individual appears to be experiencing a sense of sadness, as indicated by their neutral facial expression and lack of enthusiasm."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 12,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're having a wonderful time! Enjoy every moment of your holiday shopping!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "A person with a bright smile, conveying joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 13,
+    "model_output": {
+      "arousal": 6,
+      "valence": 8,
+      "message": "It sounds like you're both really excited about the conference! That's wonderful to hear!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling broadly, conveying excitement and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 14,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It's okay to lose track of time sometimes. We all get caught up in things we enjoy!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "displeasure",
+        "expression": "grimace",
+        "description": "The person appears to be expressing discomfort or displeasure, possibly indicating frustration or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 15,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It's completely normal to feel anxious about your exam results. Remember, no matter the outcome, you're not alone in this."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "concern",
+        "expression": "neutral",
+        "description": "The person appears serious and somewhat worried, indicating feelings of anxiety or concern about an upcoming event."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 16,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It sounds like you're feeling a bit down about the weather. It's okay to feel that way. Maybe we can find something fun to do indoors later!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The subject appears to have a neutral expression with a hint of sadness, indicating a low level of positive emotion."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 17,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It sounds like you're feeling a bit uncertain but hopeful. Remember, it's okay to feel that way. Enjoy the movie!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with relaxed features, suggesting a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 18,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand how disappointing this situation can be. Let's try to make the best of it together!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to have a neutral expression that may indicate feelings of frustration or disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 19,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I understand how disappointing it can be when the weather doesn't cooperate with your plans. It's okay to feel let down. Maybe we can think of some fun alternatives for the day!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "neutral",
+        "description": "The person's face shows a neutral expression, indicating a lack of enthusiasm and a sense of disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 20,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's understandable to feel anxious about deadlines. Let's tackle this together and find a solution."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "worry",
+        "expression": "concerned",
+        "description": "The person appears anxious with a furrowed brow and slightly open mouth, indicating stress about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 21,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I'm really sorry to hear about your holiday plans. It's tough when things don't go as expected. I'm here for you if you need to talk or brainstorm new ideas."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "worried and distressed",
+        "description": "A woman with a concerned expression, eyebrows furrowed and mouth slightly downturned, indicating feelings of sadness or distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 22,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel disappointed about the weather. Let's hope for the best, and maybe we can find something fun to do regardless!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disappointment",
+        "expression": "frown",
+        "description": "The individual's expression shows signs of distress and concern, likely due to the unexpected weather change."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 23,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's understandable to feel uneasy about the cleanliness. Let's find a place that feels better for both of us."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "grimace",
+        "description": "The person appears to be making a face of discomfort or disgust, likely in response to something unpleasant."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 24,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "It's great that you're exploring new themes in books! Sometimes familiar plots can lead to new insights."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "serious",
+        "description": "The person appears calm and serious, with a neutral expression, possibly reflecting contemplation or thoughtfulness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 25,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It sounds like the alarm clock is really bothering you. Maybe we can find a quieter solution that works for both of us."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frown, scrunched nose",
+        "description": "The person appears to be expressing disgust, possibly due to a negative stimulus, such as the harsh sound of the alarm clock."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 26,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "I'm really sorry to hear about the rain. It’s disappointing when plans change, but maybe you can find a cozy alternative to enjoy your day."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral to slightly frowning",
+        "description": "The person appears to be experiencing a subdued mood, possibly reflecting feelings of disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 27,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It's completely okay to forget sometimes! Just take a deep breath and focus on what you need to remember. You've got this!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person appears joyful and content, with a genuine smile that indicates positive feelings."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 2,
+    "trial": 28,
+    "model_output": {
+      "arousal": 4,
+      "valence": 2,
+      "message": "It's completely understandable to feel anxious during such a difficult time. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears to be experiencing a neutral expression, which may indicate a lack of emotional energy, often associated with sadness or concern."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 1,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "I can understand how frustrating this situation must feel. It's okay to be upset about it. Let's find a way to make the best of it!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "furrowed brows, pursed lips",
+        "description": "The person looks frustrated, with a facial expression indicating annoyance or disbelief."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 2,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I know waiting can be really frustrating. It's okay to feel down about this situation. I'm here for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "teary-eyed, furrowed brow",
+        "description": "The person appears to be expressing sadness, with a slight frown and tears, indicating emotional distress."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 3,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "I can understand why you're feeling frustrated about the change in plans. It's okay to feel that way. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frown",
+        "description": "The person appears to be expressing disgust or frustration, with furrowed brows and a tight mouth."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 4,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely understandable to feel anxious in uncertain situations like this. I'm here to support you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears serious and slightly distressed, suggesting feelings of concern or sadness."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 5,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It sounds really frustrating to be stuck in traffic, especially when you're looking forward to the party. Hang in there, you'll get there soon!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears neutral with a calm expression, suggesting a lack of strong emotions, possibly feeling stuck or resigned to the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 6,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like an exciting getaway! Enjoy the fresh air and beautiful weather!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person appears happy, with a warm smile and bright eyes, suggesting a positive emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 7,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're looking forward to a fun time! Enjoy your drink!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person is smiling with bright eyes, conveying a sense of joy and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 8,
+    "model_output": {
+      "arousal": 7,
+      "valence": 8,
+      "message": "It sounds like you had a lot of fun at the party! It's great to hear you enjoyed yourself."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "joy",
+        "expression": "happy",
+        "description": "A person with wide eyes and a playful expression, sticking out their tongue, indicating excitement and joy."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 9,
+    "model_output": {
+      "arousal": 7,
+      "valence": 8,
+      "message": "It sounds like you're in for an exciting day! Enjoy the thrill and stay safe!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person has a joyful expression, showcasing excitement and positivity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 10,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "It's completely normal to feel scared in a situation like this. Just remember, you’re not alone, and it's okay to take a step back if you need to."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "worried",
+        "description": "The person appears anxious and scared, reflecting concern about the dark cave."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 11,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's understandable to feel frustrated in this situation. Just take a deep breath and focus on what's important."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "frustration",
+        "expression": "frown, furrowed brow",
+        "description": "The person appears frustrated, with a serious expression and slightly pursed lips, indicating a high level of stress or annoyance."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 12,
+    "model_output": {
+      "arousal": 5,
+      "valence": 4,
+      "message": "It's completely normal to feel scared in a situation like this. Let's stick together and be cautious."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "calm",
+        "expression": "neutral",
+        "description": "The person appears to have a calm demeanor, with eyes closed and a relaxed facial expression, suggesting a moment of contemplation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 13,
+    "model_output": {
+      "arousal": 3,
+      "valence": 2,
+      "message": "It's completely understandable to feel worried about your health. Please take the time to talk to a doctor and get the support you need."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "neutral",
+        "description": "The person appears concerned and serious, with a flat expression that conveys sadness and worry."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 14,
+    "model_output": {
+      "arousal": 5,
+      "valence": 7,
+      "message": "That's an incredible achievement! You should be really proud of your hard work and dedication."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears to have a neutral expression, suggesting a calm and composed emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 15,
+    "model_output": {
+      "arousal": 3,
+      "valence": 4,
+      "message": "I'm really sorry to hear about the promotion. It's tough when your hard work isn’t recognized. Remember, your effort is valuable, and there will be other opportunities."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression, suggesting a state of contemplation or mild disappointment."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 16,
+    "model_output": {
+      "arousal": 4,
+      "valence": 5,
+      "message": "It's understandable to feel a bit rushed when time is limited. Take a deep breath and focus on what you need to do next."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm and neutral, suggesting a balanced emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 17,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "It's understandable to feel uneasy about the situation. It's okay to make mistakes; we all do. Let’s try to find a way to fix it."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "furrowed brow, tight lips",
+        "description": "The person appears to be expressing disgust or discomfort, likely reflecting feelings of regret or annoyance about the milk left out."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 18,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I'm really sorry to hear that you're going through such a tough time. It's completely understandable to feel frustrated. I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "frowning",
+        "description": "The person appears to be feeling disgusted or frustrated, with a frown and serious demeanor."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 19,
+    "model_output": {
+      "arousal": 5,
+      "valence": 6,
+      "message": "It's wonderful to see you taking charge of your health while enjoying this project! Keep it up!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person appears calm with a neutral expression, suggesting a stable emotional state."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 20,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand how frustrating this situation is. It's important to address it and stay calm."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "anger",
+        "expression": "furrowed brow, neutral mouth",
+        "description": "The person appears to be expressing frustration or anger, indicative of the situation's intensity."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 21,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand how frustrating this situation is. Let's find a way to turn it around and make the most of the day!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "slightly smiling",
+        "description": "The person appears calm with a slight smile, suggesting a moderate emotional response."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 22,
+    "model_output": {
+      "arousal": 3,
+      "valence": 5,
+      "message": "It sounds like you have a busy weekend ahead! Let me know if you need any help with your plans."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "A woman with a neutral expression, showing no strong emotions."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 23,
+    "model_output": {
+      "arousal": 6,
+      "valence": 3,
+      "message": "I understand how disappointing it is to encounter such conditions, especially when you were looking forward to this trip. Hang in there, it will get better!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "disgust",
+        "expression": "scrunched face",
+        "description": "The individual appears to express disgust, likely in response to something unpleasant or unappealing."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 24,
+    "model_output": {
+      "arousal": 4,
+      "valence": 7,
+      "message": "It sounds like you're enjoying your creative sessions! Keep it up; you're doing great!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "happiness",
+        "expression": "smiling",
+        "description": "The person appears to be content and relaxed, with a slight smile suggesting positive feelings."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 25,
+    "model_output": {
+      "arousal": 4,
+      "valence": 3,
+      "message": "It sounds like you're feeling a bit anxious about your friends being late. It's understandable to feel that way. I'm here for you!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "surprise",
+        "expression": "neutral",
+        "description": "The person appears surprised or uncertain, with wide eyes and a slightly open mouth, suggesting a lack of understanding or concern about the situation."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 26,
+    "model_output": {
+      "arousal": 3,
+      "valence": 7,
+      "message": "It sounds like a lovely adventure awaits you! Enjoy exploring the charm of that little town!"
+    },
+    "image_interpretation": [
+      {
+        "emotion": "neutral",
+        "expression": "calm",
+        "description": "The person has a neutral expression with a slight hint of curiosity, suggesting they are engaged but not overly excited."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 27,
+    "model_output": {
+      "arousal": 7,
+      "valence": 3,
+      "message": "It's completely understandable to feel scared in this situation. If you want to switch games, I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "fear",
+        "expression": "surprised and tense",
+        "description": "The person appears startled and tense, suggesting feelings of fear or anxiety."
+      }
+    ]
+  },
+  {
+    "participant": "sub-zry",
+    "run": 3,
+    "trial": 28,
+    "model_output": {
+      "arousal": 5,
+      "valence": 3,
+      "message": "I'm really sorry to hear about your ankle. It's okay to feel upset; I'm here for you."
+    },
+    "image_interpretation": [
+      {
+        "emotion": "sadness",
+        "expression": "frowning, tears",
+        "description": "The person appears to be experiencing sadness, with a frown and a pained expression."
+      }
+    ]
+  }
+]
